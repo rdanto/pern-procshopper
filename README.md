@@ -1,5 +1,5 @@
 # Pern-Procshopper Web App
-mock storefront for medical scans using the PERN software stack developed by Rebecca D'Antonio
+Mock storefront for medical scans using the PERN software stack developed by Rebecca D'Antonio
 ### Notes
 - Register a new account using any format for name, insurance number, and password with no empty fields
 - Email must be proper format (user@website.com)
