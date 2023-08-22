@@ -61,12 +61,12 @@ export default function ScanCard({ scan }) {
         title={scan.name}
         subheader={`Available on - ${scan.available}`}
       />
-      <CardMedia
-        component="img"
-        height="104"
-        image={scan.image}
-        alt="Medical Scan"
-      />
+#      <CardMedia
+#        component="img"
+#        height="104"
+#        image={scan.image}
+#        alt="Medical Scan"
+#      />
       <CardContent>
         <Typography variant="body2" color="text.secondary">
           {scan.description}
